@@ -1,1 +1,1 @@
-# flask_crud
+# simple flask application
